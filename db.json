@@ -1,0 +1,144 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "oppo A5",
+      "description": "Oppo Smart phone Android",
+      "price": 9000,
+      "image": "https://m.media-amazon.com/images/I/51oDDYRMifL._SL1280_.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Samsung S23",
+      "description": "Smart phone Samsung Android",
+      "price": 40000,
+      "image": "https://m.media-amazon.com/images/I/61isPIHrHgL._SL1500_.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Moto G 54",
+      "description": "Moto G Smart phone Android",
+      "price": 18000,
+      "image": "https://m.media-amazon.com/images/I/81dl4dQY3BL._SL1500_.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Oppo A 53",
+      "description": "Android phone Oppo A 53 4GB RAM",
+      "price": 20000,
+      "image": "https://m.media-amazon.com/images/I/81Xl10tx7hL._SL1500_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Redmi Note 10 Pro",
+      "description": "8 GB RAM, 128 GB storage, dynamic power",
+      "price": 20000,
+      "image": "https://m.media-amazon.com/images/I/718HzJbvY1L._SL1500_.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Poco S6",
+      "description": "4 GB RAM, 128 GB ROM with glass screen",
+      "price": 16000,
+      "image": "https://m.media-amazon.com/images/I/717kT9HNtOL._SL1500_.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Jio Basic Mobile",
+      "description": "Budget Jio mobile",
+      "price": 1500,
+      "image": "https://m.media-amazon.com/images/I/71LNMVUZXML._SL1500_.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Nokia 3310",
+      "description": "Nokia keypad mobile 3310, 2 GB RAM",
+      "price": 1100,
+      "image": "https://m.media-amazon.com/images/I/51GSe9rxsoL._SL1080_.jpg"
+    },
+    {
+      "id": 9,
+      "name": "OnePlus 9 Pro",
+      "description": "5G enabled OnePlus smartphone",
+      "price": 65000,
+      "image": "https://m.media-amazon.com/images/I/61fvUI+UzjL._SL1500_.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Xiaomi Mi 11X",
+      "description": "Flagship killer with Snapdragon 870",
+      "price": 29000,
+      "image": "https://m.media-amazon.com/images/I/716FVMg72GS._SL1500_.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Samsung Galaxy M32",
+      "description": "Smartphone with 90Hz AMOLED display",
+      "price": 15000,
+      "image": "https://m.media-amazon.com/images/I/71os5DRhuSL._SL1500_.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Realme Narzo 30 Pro",
+      "description": "Realme 5G phone with 120Hz display",
+      "price": 17000,
+      "image": "https://m.media-amazon.com/images/I/71AwWtT5AUL._SL1500_.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Vivo Y29G",
+      "description": "Affordable Vivo smartphone with 4GB RAM",
+      "price": 12000,
+      "image": "https://m.media-amazon.com/images/I/715GW9+k4BL._SL1500_.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Apple iPhone 12",
+      "description": "iPhone with A14 Bionic chip, 5G ready",
+      "price": 79999,
+      "image": "https://m.media-amazon.com/images/I/51LHLNIf2XL._SL1200_.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Asus ROG Phone 5",
+      "description": "Gaming phone with 16GB RAM and Snapdragon 888",
+      "price": 49999,
+      "image": "https://m.media-amazon.com/images/I/31QwUqcvKjL.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Xiaomi Redmi 9 Prime",
+      "description": "Redmi 9 Prime with 4GB RAM and 64GB ROM",
+      "price": 8999,
+      "image": "https://m.media-amazon.com/images/I/513JLabZmvL._SL1000_.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Huawei P40 Pro",
+      "description": "Premium Huawei phone with Leica camera",
+      "price": 85000,
+      "image": "https://m.media-amazon.com/images/I/21LmVNdBT1L.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Motorola Edge+",
+      "description": "Flagship phone with 108 MP camera and 5G",
+      "price": 74999,
+      "image": "https://m.media-amazon.com/images/I/715aoVxQNTL._SL1500_.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Oppo Reno 6 Pro",
+      "description": "Oppo Reno 6 Pro with fast charging",
+      "price": 39999,
+      "image": "https://m.media-amazon.com/images/I/31rwBGr6mNL.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Sony Xperia 1 II",
+      "description": "Sony flagship phone with 4K HDR display",
+      "price": 109999,
+      "image": "https://m.media-amazon.com/images/I/51EwZ6lZn9L.jpg"
+    }
+  ]
+}
