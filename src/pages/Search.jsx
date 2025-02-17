@@ -18,9 +18,24 @@ const Search = () => {
   const loadData = async (e) => {
     setMypro(e.target.value);
     setLoading(true);
-    let api = "http://localhost:3000/product";
-    const response = await axios.get(api);
-    setProData(response.data);
+
+    const apis = [
+      "http://localhost:3000/product",
+      "http://localhost:3000/mens",
+      "http://localhost:3000/womens",
+      "http://localhost:3000/children",
+      "http://localhost:3000/partywear"
+    ];
+
+    try {
+      const responses = await Promise.all(apis.map(api => axios.get(api)));
+      
+      const allData = responses.flatMap(response => response.data);
+      setProData(allData);
+    } catch (error) {
+      console.error("Error fetching data from APIs:", error);
+    }
+    
     setLoading(false);
   };
 
@@ -46,7 +61,6 @@ const Search = () => {
           </Form.Group>
         </Form>
 
-        {/* Loading State */}
         {loading ? (
           <div className="text-center">
             <Spinner animation="border" variant="primary" />

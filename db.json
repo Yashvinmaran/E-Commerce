@@ -1,144 +1,541 @@
 {
+  "mens": [
+    {
+      "id": 101,
+      "name": "Men's Slim Fit Dress Shirt",
+      "description": "A stylish and comfortable slim fit dress shirt, perfect for any occasion.",
+      "price": "39.99",
+      "image": "https://m.media-amazon.com/images/I/41bvJoL+P7L.jpg"
+    },
+    {
+      "id": 102,
+      "name": "Men's Classic Straight Fit Jeans",
+      "description": "Durable and comfortable classic straight fit jeans, ideal for everyday wear.",
+      "price": "59.99",
+      "image": "https://m.media-amazon.com/images/I/71VLcsbk2YL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 103,
+      "name": "Men's Leather Bomber Jacket",
+      "description": "A classic leather bomber jacket, providing both style and warmth.",
+      "price": "129.99",
+      "image": "https://m.media-amazon.com/images/I/619KZMkHQBL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 104,
+      "name": "Men's Running Shoes",
+      "description": "Lightweight and supportive running shoes, perfect for your workouts.",
+      "price": "79.99",
+      "image": "https://m.media-amazon.com/images/I/61O3d5TgvXL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 105,
+      "name": "Men's Crew Neck T-Shirt",
+      "description": "A comfortable and versatile crew neck t-shirt, essential for any wardrobe.",
+      "price": "19.99",
+      "image": "https://m.media-amazon.com/images/I/61UB9moGCRL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 106,
+      "name": "Men's Two-Button Suit",
+      "description": "A sharp and sophisticated two-button suit, ideal for formal events.",
+      "price": "249.99",
+      "image": "https://m.media-amazon.com/images/I/61QfUGrzJ5L._AC_UL640_FMwebp_QL65_.jpg"
+    }
+  ],
+  "womens": [
+    {
+      "id": 107,
+      "name": "Women's Maxi Dress",
+      "description": "A flowing and elegant maxi dress, perfect for summer days or special occasions.",
+      "price": "69.99",
+      "image": "https://m.media-amazon.com/images/I/61Te8nz1IFL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 108,
+      "name": "Women's Casual Top",
+      "description": "A comfortable and stylish casual top, perfect for everyday wear.",
+      "price": "29.99",
+      "image": "https://m.media-amazon.com/images/I/71g-ksElIzL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 109,
+      "name": "Women's Midi Skirt",
+      "description": "A chic midi skirt, versatile enough for work or a night out.",
+      "price": "49.99",
+      "image": "https://m.media-amazon.com/images/I/41aFy6-SJgL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 110,
+      "name": "Women's Button-Down Blouse",
+      "description": "A classic button-down blouse, perfect for a professional look.",
+      "price": "39.99",
+      "image": "https://m.media-amazon.com/images/I/71+1Txt7qrL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 111,
+      "name": "Women's Strappy Sandals",
+      "description": "Stylish and comfortable strappy sandals, perfect for warm weather.",
+      "price": "44.99",
+      "image": "https://m.media-amazon.com/images/I/517KRBLNlsL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 112,
+      "name": "Women's Knit Sweater",
+      "description": "A cozy knit sweater, perfect for chilly evenings.",
+      "price": "59.99",
+      "image": "https://m.media-amazon.com/images/I/51+kI8uaVXL._AC_UL640_FMwebp_QL65_.jpg"
+    }
+  ],
+  "children": [
+    {
+      "id": 113,
+      "name": "Kids' Graphic T-Shirt",
+      "description": "A fun and colorful graphic t-shirt for kids.",
+      "price": "14.99",
+      "image": "https://m.media-amazon.com/images/I/616e6jeMfBL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 114,
+      "name": "Kids' Denim Shorts",
+      "description": "Durable and comfortable denim shorts for kids.",
+      "price": "19.99",
+      "image": "https://m.media-amazon.com/images/I/41nMreLPFcL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 115,
+      "name": "Girls' Party Dress",
+      "description": "A beautiful party dress for girls, perfect for special occasions.",
+      "price": "39.99",
+      "image": "https://m.media-amazon.com/images/I/71-5HLL5VwL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 116,
+      "name": "Kids' Fleece Hoodie",
+      "description": "A warm and cozy fleece hoodie for kids.",
+      "price": "24.99",
+      "image": "https://m.media-amazon.com/images/I/41wFeOg11kL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 117,
+      "name": "Kids' Sneakers",
+      "description": "Comfortable and supportive sneakers for kids.",
+      "price": "29.99",
+      "image": "https://m.media-amazon.com/images/I/71UT66yuHvL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 118,
+      "name": "Kids' Puffer Jacket",
+      "description": "A warm and lightweight puffer jacket for kids.",
+      "price": "34.99",
+      "image": "https://m.media-amazon.com/images/I/71tytemPPuL._AC_UL640_FMwebp_QL65_.jpg"
+    }
+  ],
+  "partywear": [
+    {
+      "id": 119,
+      "name": "Sequin Party Dress",
+      "description": "A dazzling sequin party dress, perfect for making a statement.",
+      "price": "89.99",
+      "image": "https://m.media-amazon.com/images/I/41b7aPdPYxL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 120,
+      "name": "Velvet Party Suit",
+      "description": "A luxurious velvet party suit, exuding sophistication and style.",
+      "price": "149.99",
+      "image": "https://m.media-amazon.com/images/I/61KuQ2fjILL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 121,
+      "name": "Embroidered Party Gown",
+      "description": "An elegant embroidered party gown, perfect for formal events.",
+      "price": "1",
+      "image": "https://m.media-amazon.com/images/I/81Fc264DIcL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 123,
+      "name": "Party Clutch",
+      "description": "A stylish clutch to complete your party look.",
+      "price": "39.99",
+      "image": "https://m.media-amazon.com/images/I/71sUnzteW8L._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 124,
+      "name": "Party Jewelry Set",
+      "description": "A glamorous jewelry set to add sparkle to your outfit.",
+      "price": "59.99",
+      "image": "https://m.media-amazon.com/images/I/61f8jxyrTJL._AC_UL640_FMwebp_QL65_.jpg"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "productId": "6",
+      "user": "Yashvin",
+      "rating": 4.5,
+      "comment": "Great quality jeans, very comfortable!"
+    },
+    {
+      "id": "2",
+      "productId": "3",
+      "user": "Rahul",
+      "rating": 5,
+      "comment": "Best fit and premium quality denim."
+    },
+    {
+      "id": "58bf",
+      "email": "yashvinmaran@gmail.com",
+      "rating": 3,
+      "comment": "Great Product",
+      "productId": "19"
+    },
+    {
+      "id": "0d6e",
+      "email": "yashvinmaran@gmail.com",
+      "rating": 2,
+      "comment": "Average Product",
+      "productId": "3"
+    },
+    {
+      "id": "2814",
+      "email": "simran@gmai.com",
+      "rating": 4,
+      "comment": "Good for Daily Uses",
+      "productId": "3"
+    }
+  ],
+  "wishlist": [
+    {
+      "id": "3",
+      "name": "Men's Denim Jeans",
+      "description": "Slim fit, stretchable denim, dark wash",
+      "price": 1599,
+      "image": "https://m.media-amazon.com/images/I/51oTtO2WOpL._SX679_.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Women's Casual Top",
+      "description": "Stylish cotton top with full sleeves",
+      "price": 899,
+      "image": "https://m.media-amazon.com/images/I/614POx6si7L._SY879_.jpg"
+    },
+    {
+      "id": "38",
+      "name": "Cultural Dhoti Set",
+      "description": "Traditional dhoti and kurta set for puja",
+      "price": 1999,
+      "image": "https://m.media-amazon.com/images/I/71PyyURM8RL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "37",
+      "name": "Luxury Designer Suit",
+      "description": "High-end Italian suit for formal events",
+      "price": 89999,
+      "image": "https://m.media-amazon.com/images/I/61BBjoyhuAL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "34",
+      "name": "Luxury Cashmere Coat",
+      "description": "Premium wool coat for winters",
+      "price": 59999,
+      "image": "https://m.media-amazon.com/images/I/71Q6r7VhT1L._AC_UL640_QL65_.jpg"
+    },
+    {
+      "id": "35",
+      "name": "Girls' Birthday Frock",
+      "description": "Pink princess frock with floral design",
+      "price": 2499,
+      "image": "https://m.media-amazon.com/images/I/51HCaG1AHWL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "31",
+      "name": "Luxury Wedding Lehenga",
+      "description": "Bridal lehenga with intricate embroidery",
+      "price": 49999,
+      "image": "https://m.media-amazon.com/images/I/91e3pp6O9UL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "30",
+      "name": "Women's Party Gown",
+      "description": "Elegant evening gown with lace details",
+      "price": 2999,
+      "image": "https://m.media-amazon.com/images/I/61U5pTHfkOL._SY879_.jpg"
+    }
+  ],
   "product": [
     {
-      "id": 1,
-      "name": "oppo A5",
-      "description": "Oppo Smart phone Android",
-      "price": 9000,
-      "image": "https://m.media-amazon.com/images/I/51oDDYRMifL._SL1280_.jpg"
+      "id": "1",
+      "name": "Men's Cotton T-Shirt",
+      "description": "100% cotton, round neck, comfortable fit",
+      "price": 499,
+      "image": "https://m.media-amazon.com/images/I/713n+TxyfCL._AC_UL640_FMwebp_QL65_.jpg"
     },
     {
-      "id": 2,
-      "name": "Samsung S23",
-      "description": "Smart phone Samsung Android",
-      "price": 40000,
-      "image": "https://m.media-amazon.com/images/I/61isPIHrHgL._SL1500_.jpg"
+      "id": "2",
+      "name": "Women's Floral Dress",
+      "description": "Floral print, knee-length, breathable fabric",
+      "price": 1299,
+      "image": "https://m.media-amazon.com/images/I/613x7E3cSeL._AC_UL640_FMwebp_QL65_.jpg"
     },
     {
-      "id": 3,
-      "name": "Moto G 54",
-      "description": "Moto G Smart phone Android",
-      "price": 18000,
-      "image": "https://m.media-amazon.com/images/I/81dl4dQY3BL._SL1500_.jpg"
+      "id": "3",
+      "name": "Men's Denim Jeans",
+      "description": "Slim fit, stretchable denim, dark wash",
+      "price": 1599,
+      "image": "https://m.media-amazon.com/images/I/51oTtO2WOpL._SX679_.jpg"
     },
     {
-      "id": 4,
-      "name": "Oppo A 53",
-      "description": "Android phone Oppo A 53 4GB RAM",
-      "price": 20000,
-      "image": "https://m.media-amazon.com/images/I/81Xl10tx7hL._SL1500_.jpg"
+      "id": "4",
+      "name": "Women's Casual Top",
+      "description": "Stylish cotton top with full sleeves",
+      "price": 899,
+      "image": "https://m.media-amazon.com/images/I/614POx6si7L._SY879_.jpg"
     },
     {
-      "id": 5,
-      "name": "Redmi Note 10 Pro",
-      "description": "8 GB RAM, 128 GB storage, dynamic power",
-      "price": 20000,
-      "image": "https://m.media-amazon.com/images/I/718HzJbvY1L._SL1500_.jpg"
+      "id": "5",
+      "name": "Men's Hooded Sweatshirt",
+      "description": "Winter wear hoodie with fleece lining",
+      "price": 1999,
+      "image": "https://m.media-amazon.com/images/I/41miRd79k9L.jpg"
     },
     {
-      "id": 6,
-      "name": "Poco S6",
-      "description": "4 GB RAM, 128 GB ROM with glass screen",
-      "price": 16000,
-      "image": "https://m.media-amazon.com/images/I/717kT9HNtOL._SL1500_.jpg"
+      "id": "6",
+      "name": "Women's Skinny Jeans",
+      "description": "High waist, ankle-length, stretchy denim",
+      "price": 1499,
+      "image": "https://m.media-amazon.com/images/I/51msvvfItcL._SY879_.jpg"
     },
     {
-      "id": 7,
-      "name": "Jio Basic Mobile",
-      "description": "Budget Jio mobile",
-      "price": 1500,
-      "image": "https://m.media-amazon.com/images/I/71LNMVUZXML._SL1500_.jpg"
+      "id": "7",
+      "name": "Men's Formal Shirt",
+      "description": "Full sleeve, slim fit, cotton blend",
+      "price": 1199,
+      "image": "https://m.media-amazon.com/images/I/81Be4hgx1gL._SY879_.jpg"
     },
     {
-      "id": 8,
-      "name": "Nokia 3310",
-      "description": "Nokia keypad mobile 3310, 2 GB RAM",
-      "price": 1100,
-      "image": "https://m.media-amazon.com/images/I/51GSe9rxsoL._SL1080_.jpg"
+      "id": "8",
+      "name": "Women's Ethnic Kurti",
+      "description": "Printed Kurti with 3/4th sleeves",
+      "price": 999,
+      "image": "https://m.media-amazon.com/images/I/51UXrT868ML._SX679_.jpg"
     },
     {
-      "id": 9,
-      "name": "OnePlus 9 Pro",
-      "description": "5G enabled OnePlus smartphone",
-      "price": 65000,
-      "image": "https://m.media-amazon.com/images/I/61fvUI+UzjL._SL1500_.jpg"
+      "id": "9",
+      "name": "Men's Cargo Pants",
+      "description": "Multi-pocket cargo, comfortable fit",
+      "price": 1899,
+      "image": "https://m.media-amazon.com/images/I/51WVQh5tjHL._SX679_.jpg"
     },
     {
-      "id": 10,
-      "name": "Xiaomi Mi 11X",
-      "description": "Flagship killer with Snapdragon 870",
-      "price": 29000,
-      "image": "https://m.media-amazon.com/images/I/716FVMg72GS._SL1500_.jpg"
+      "id": "10",
+      "name": "Women's Party Gown",
+      "description": "Elegant evening gown with lace details",
+      "price": 2999,
+      "image": "https://m.media-amazon.com/images/I/81x9esfLopL._SY879_.jpg"
     },
     {
-      "id": 11,
-      "name": "Samsung Galaxy M32",
-      "description": "Smartphone with 90Hz AMOLED display",
-      "price": 15000,
-      "image": "https://m.media-amazon.com/images/I/71os5DRhuSL._SL1500_.jpg"
+      "id": "11",
+      "name": "Men's Joggers",
+      "description": "Comfortable gym wear joggers",
+      "price": 1499,
+      "image": "https://m.media-amazon.com/images/I/61cD99BdQQL._SX679_.jpg"
     },
     {
-      "id": 12,
-      "name": "Realme Narzo 30 Pro",
-      "description": "Realme 5G phone with 120Hz display",
-      "price": 17000,
-      "image": "https://m.media-amazon.com/images/I/71AwWtT5AUL._SL1500_.jpg"
+      "id": "12",
+      "name": "Women's Winter Jacket",
+      "description": "Puffer jacket with inner fleece lining",
+      "price": 2499,
+      "image": "https://m.media-amazon.com/images/I/61cyNor+Z9L._SX679_.jpg"
     },
     {
-      "id": 13,
-      "name": "Vivo Y29G",
-      "description": "Affordable Vivo smartphone with 4GB RAM",
-      "price": 12000,
-      "image": "https://m.media-amazon.com/images/I/715GW9+k4BL._SL1500_.jpg"
+      "id": "13",
+      "name": "Men's Leather Belt",
+      "description": "Genuine leather belt, adjustable size",
+      "price": 799,
+      "image": "https://m.media-amazon.com/images/I/71LvbrN94JL._SX679_.jpg"
     },
     {
-      "id": 14,
-      "name": "Apple iPhone 12",
-      "description": "iPhone with A14 Bionic chip, 5G ready",
-      "price": 79999,
-      "image": "https://m.media-amazon.com/images/I/51LHLNIf2XL._SL1200_.jpg"
+      "id": "14",
+      "name": "Women's Palazzo Pants",
+      "description": "Cotton palazzo with wide-leg fit",
+      "price": 1099,
+      "image": "https://m.media-amazon.com/images/I/51ebaqnewiL._SX679_.jpg"
     },
     {
-      "id": 15,
-      "name": "Asus ROG Phone 5",
-      "description": "Gaming phone with 16GB RAM and Snapdragon 888",
+      "id": "15",
+      "name": "Men's Polo Shirt",
+      "description": "Casual polo t-shirt with breathable fabric",
+      "price": 1299,
+      "image": "https://m.media-amazon.com/images/I/61T7uPhUzpL._SX679_.jpg"
+    },
+    {
+      "id": "16",
+      "name": "Women's Leggings",
+      "description": "High-waist stretchable leggings",
+      "price": 799,
+      "image": "https://m.media-amazon.com/images/I/51MZ7Kc0saL._SY879_.jpg"
+    },
+    {
+      "id": "17",
+      "name": "Men's Track Pants",
+      "description": "Sports track pants with elastic waist",
+      "price": 999,
+      "image": "https://m.media-amazon.com/images/I/61H2fYPv4BL._SX679_.jpg"
+    },
+    {
+      "id": "18",
+      "name": "Women's Saree",
+      "description": "Silk saree with embroidered design",
+      "price": 2499,
+      "image": "https://m.media-amazon.com/images/I/61SEyDRjd3L._SY879_.jpg"
+    },
+    {
+      "id": "19",
+      "name": "Men's Wool Sweater",
+      "description": "Winter sweater with classic design",
+      "price": 1799,
+      "image": "https://m.media-amazon.com/images/I/51Lxueh4WaL._SY879_.jpg"
+    },
+    {
+      "id": "20",
+      "name": "Women's Anarkali Suit",
+      "description": "Anarkali dress with dupatta",
+      "price": 3299,
+      "image": "https://m.media-amazon.com/images/I/61xS1y90CbL._SY879_.jpg"
+    },
+    {
+      "id": "21",
+      "name": "Men's Cotton T-Shirt",
+      "description": "100% cotton, round neck, comfortable fit",
+      "price": 499,
+      "image": "https://m.media-amazon.com/images/I/41xlIZwU5KL._SX679_.jpg"
+    },
+    {
+      "id": "22",
+      "name": "Women's Floral Dress",
+      "description": "Floral print, knee-length, breathable fabric",
+      "price": 1299,
+      "image": "https://m.media-amazon.com/images/I/51OIKTGYykL.jpg"
+    },
+    {
+      "id": "23",
+      "name": "Men's Denim Jeans",
+      "description": "Slim fit, stretchable denim, dark wash",
+      "price": 1599,
+      "image": "https://m.media-amazon.com/images/I/51jMyu45nsL._SX679_.jpg"
+    },
+    {
+      "id": "24",
+      "name": "Women's Casual Top",
+      "description": "Stylish cotton top with full sleeves",
+      "price": 899,
+      "image": "https://m.media-amazon.com/images/I/71yFjmhA2OL._SY879_.jpg"
+    },
+    {
+      "id": "25",
+      "name": "Men's Hooded Sweatshirt",
+      "description": "Winter wear hoodie with fleece lining",
+      "price": 1999,
+      "image": "https://m.media-amazon.com/images/I/41miRd79k9L._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "26",
+      "name": "Women's Skinny Jeans",
+      "description": "High waist, ankle-length, stretchy denim",
+      "price": 1499,
+      "image": "https://m.media-amazon.com/images/I/71qJ5pPI7uL._SY879_.jpg"
+    },
+    {
+      "id": "27",
+      "name": "Men's Formal Shirt",
+      "description": "Full sleeve, slim fit, cotton blend",
+      "price": 1199,
+      "image": "https://m.media-amazon.com/images/I/51ystSbVCQL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "28",
+      "name": "Women's Ethnic Kurti",
+      "description": "Printed Kurti with 3/4th sleeves",
+      "price": 999,
+      "image": "https://m.media-amazon.com/images/I/61kvXNqLkrL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Men's Cargo Pants",
+      "description": "Multi-pocket cargo, comfortable fit",
+      "price": 1899,
+      "image": "https://m.media-amazon.com/images/I/51VkdIBrhFL._SY879_.jpg"
+    },
+    {
+      "id": "30",
+      "name": "Women's Party Gown",
+      "description": "Elegant evening gown with lace details",
+      "price": 2999,
+      "image": "https://m.media-amazon.com/images/I/61U5pTHfkOL._SY879_.jpg"
+    },
+    {
+      "id": "31",
+      "name": "Luxury Wedding Lehenga",
+      "description": "Bridal lehenga with intricate embroidery",
       "price": 49999,
-      "image": "https://m.media-amazon.com/images/I/31QwUqcvKjL.jpg"
+      "image": "https://m.media-amazon.com/images/I/91e3pp6O9UL._AC_UL640_FMwebp_QL65_.jpg"
     },
     {
-      "id": 16,
-      "name": "Xiaomi Redmi 9 Prime",
-      "description": "Redmi 9 Prime with 4GB RAM and 64GB ROM",
-      "price": 8999,
-      "image": "https://m.media-amazon.com/images/I/513JLabZmvL._SL1000_.jpg"
+      "id": "32",
+      "name": "Designer Party Saree",
+      "description": "Silk saree with golden threadwork",
+      "price": 14999,
+      "image": "https://m.media-amazon.com/images/I/410G7cM1IOL.jpg"
     },
     {
-      "id": 17,
-      "name": "Huawei P40 Pro",
-      "description": "Premium Huawei phone with Leica camera",
-      "price": 85000,
-      "image": "https://m.media-amazon.com/images/I/21LmVNdBT1L.jpg"
+      "id": "33",
+      "name": "Children Ethnic Sherwani",
+      "description": "Boys' wedding sherwani with churidar",
+      "price": 3999,
+      "image": "https://m.media-amazon.com/images/I/61tZ3rkML8L._AC_UL640_FMwebp_QL65_.jpg"
     },
     {
-      "id": 18,
-      "name": "Motorola Edge+",
-      "description": "Flagship phone with 108 MP camera and 5G",
-      "price": 74999,
-      "image": "https://m.media-amazon.com/images/I/715aoVxQNTL._SL1500_.jpg"
+      "id": "34",
+      "name": "Luxury Cashmere Coat",
+      "description": "Premium wool coat for winters",
+      "price": 59999,
+      "image": "https://m.media-amazon.com/images/I/71Q6r7VhT1L._AC_UL640_QL65_.jpg"
     },
     {
-      "id": 19,
-      "name": "Oppo Reno 6 Pro",
-      "description": "Oppo Reno 6 Pro with fast charging",
-      "price": 39999,
-      "image": "https://m.media-amazon.com/images/I/31rwBGr6mNL.jpg"
+      "id": "35",
+      "name": "Girls' Birthday Frock chilren",
+      "description": "Pink princess frock with floral design",
+      "price": 2499,
+      "image": "https://m.media-amazon.com/images/I/51HCaG1AHWL._AC_UL640_FMwebp_QL65_.jpg"
     },
     {
-      "id": 20,
-      "name": "Sony Xperia 1 II",
-      "description": "Sony flagship phone with 4K HDR display",
-      "price": 109999,
-      "image": "https://m.media-amazon.com/images/I/51EwZ6lZn9L.jpg"
+      "id": "36",
+      "name": "Men's Silk Kurta Pajama",
+      "description": "Traditional kurta pajama for cultural events",
+      "price": 3499,
+      "image": "https://m.media-amazon.com/images/I/61ao8WfG9pL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "37",
+      "name": "Luxury Designer Suit",
+      "description": "High-end Italian suit for formal events",
+      "price": 89999,
+      "image": "https://m.media-amazon.com/images/I/61BBjoyhuAL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "38",
+      "name": "Cultural Dhoti Set",
+      "description": "Traditional dhoti and kurta set for puja",
+      "price": 1999,
+      "image": "https://m.media-amazon.com/images/I/71PyyURM8RL._AC_UL640_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "39",
+      "name": "Elegant Evening Dress",
+      "description": "Luxury designer evening dress",
+      "price": 34999,
+      "image": "https://m.media-amazon.com/images/I/31y45PwvRoL._AC_UL640_FMwebp_QL65_.jpg"
     }
   ]
 }

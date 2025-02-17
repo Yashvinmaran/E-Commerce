@@ -70,7 +70,6 @@ const Cart = () => {
                 <tbody>{ans}</tbody>
             </Table>
 
-            {/* Custom Styles */}
             <style>
                 {`
                     .cart-container {
